@@ -7,7 +7,7 @@ The project consists of a FastAPI backend for the fraud detection pipeline, a Re
 ---
 Due to GitHub file size limitations, the trained MARBERT model weights (`model.safetensors`) are hosted externally. Download the model file from the following link:
 
-[Download model.safetensors]((https://drive.google.com/file/d/1lQ6ixIiVlw6kAGUWBGMFfpGlEDZlRTzl/view?usp=sharing))
+[Download model.safetensors](https://drive.google.com/file/d/1lQ6ixIiVlw6kAGUWBGMFfpGlEDZlRTzl/view?usp=sharing)
 
 After downloading, place the file inside:
 

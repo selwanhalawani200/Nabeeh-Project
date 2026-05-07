@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+faster-whisper
+soundfile
+librosa
+numpy
+torch
+transformers
+sounddevice
+scipy
+pandas
